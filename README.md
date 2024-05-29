@@ -13,6 +13,7 @@ Ce dépôt contient un script Python utilisant Tkinter pour créer une applicati
 1. Clonez ce dépôt ou téléchargez le script directement :
  
     git clone https://github.com/Hackthus/Password-Generator.git
+   
     cd Password-Generator
  
 ## Utilisation
